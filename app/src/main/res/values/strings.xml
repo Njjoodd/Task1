@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Task1</string>
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+    <string name="next_question">Next Question</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Wrong Answer</string>
+
+    <string-array name="questions_array">
+        <item>Android is an operating system.</item>
+        <item>Kotlin is officially supported for Android development.</item>
+        <item>XML stands for Extra Modern Language.</item>
+    </string-array>
 </resources>
